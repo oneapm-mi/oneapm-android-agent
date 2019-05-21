@@ -1,4 +1,4 @@
-#配置文件路径 app/src/main/assets/oneapm.properties
+# 配置文件路径 app/src/main/assets/oneapm.properties
 
 ###############################################################################
 ### appKey,唯一性标志，不能忽略
